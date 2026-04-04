@@ -1,0 +1,252 @@
+﻿
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+                       
+
+
+
+                                                  -------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+1. Introduction.............................................................................................................................................
+2. Literature Review....................................................................................................................................
+2.1 Digital platforms as governance and coordination mechanisms.......................................................
+2.2 Trust and social embeddedness in exchange........................................................................................
+2.3 Circular economy and reuse as socio-technical exchange systems...................................................
+2.4 Incentive systems and motivation in digital platforms........................................................................
+2.5 Synthesis and positioning........................................................................................................................
+3. Methodology..........................................................................................................................................
+3.1 Case Introduction.....................................................................................................................................
+3.2 Aim / Purpose...........................................................................................................................................
+3.3 Research Design........................................................................................................................................
+3.4 Case and Empirical Setting......................................................................................................................
+3.5 Sampling Strategy.....................................................................................................................................
+3.6 Data Collection..........................................................................................................................................
+3.6 Interview Guide........................................................................................................................................
+3.7 Data Analysis Plan.....................................................................................................................................
+3.8 Limitations.................................................................................................................................................
+3.9 Ethical Considerations..............................................................................................................................
+4. Results (approx 15-20 pages) ...............................................................................................................
+4.1 TBD.........................................................................................................................................................
+5. Discussion (approx 5-7 pages) ...............................................................................................................
+5.1 Societal and Ethical Implications.............................................................................................................
+5.2 Evaluation of Methodology...................................................................................................................... 
+5.3 Limitations .................................................................................................................................................
+5.4 Delimitations .............................................................................................................................................
+6. Conclusion (approx 3-5 pages) .............................................................................................................
+6.1 Thesis Contribution ..................................................................................................................................
+6.2 Suggestions for Future Research.............................................................................................................
+
+
+
+
+
+1. Introduction: 
+Digital platforms are no longer distant since they are being employed as a pivotal technology to introduce community-based sharing and organize participation, and share resources. Here, typically, when discussing exchanging, we refer to its organisation via informal relations that are based on trust and not via formal market mechanisms. It is against this backdrop that, lately, one of the most frequently used incentive mechanisms, through token-based/point-based incentive mechanisms, has been put forward as a measure to control and quantify such forms of exchange practices. There are, however, divided scholarly pursuits with this phenomenon. The current literature has discussed the components of this phenomenon in several literature streams, such as
+First, the use of digital platforms for governance and coordination. This literature analyses how platforms organize interactions, construct rules, and coordinate participation between users. There is a need to comprehend how the attempts to formalise the exchange are institutionalized within the platform governance instead of neutral technical interventions.
+Second, trust and social embeddedness in community-based exchange. This stream is dedicated to the role of informal relationships and social positions involved in coordination and value exchange without formal market intervention. It gives the foundation to the analysis of the possible influence of platform-mediated incentives on existing trust-based practices.
+Third, reuse as socio-technical exchange systems and circular economy, this literature deals with the organisation and maintenance of reuse and redistribution by means of intermediaries, communities, and platforms. It places the case in the context of a more general discussion of circular exchange outside the sphere of the economy or market-based.
+Lastly, incentive systems and motivation in digital platforms. This area explores the influence of incentives (such as token-based instruments) on participation, motivation, and behaviour in digital platforms. Assessment of incentives to encourage coordination and the risk of their destruction of trust or intrinsic motivation must be critically evaluated.
+Although all streams have valuable information, each stream has different theoretical assumptions and levels of analysis, which focus on the phenomenon.
+In order to counter this dissection, fields, pivotal concepts, and fundamental mechanisms are used to classify areas of research. In terms of the aspects of various mechanisms and assumptions of the authors that will guide the research toward the correct problematization, the literature review will be focused. The selection of these domains was done through intensive research and knowledge of the problem, and then converted into a narrative frame.
+This literature review is aimed at mapping these streams, considering their interrelation with each other, and revealing the tensions and limitations that are still unaddressed. In this way, the review will lead to a basis for placing the current thesis into the continuous academic discussion.
+
+2. Literature Review
+2.1 Digital platforms as governance and coordination mechanisms
+This literature highlights a structured insight into the source regarding peer-to-peer (P2P) sharing platforms to address the queries. The paper (Wirtz et al., 2019) addresses how P2P sharing platforms differ from traditional pipeline business models and seeks to identify what protects their competitive advantage. Specifically, it explores whether these platforms truly follow a "winner-takes-all" dynamic or whether their success depends on other factors such as liquidity, stakeholder trust, and loyalty (Wirtz et al., 2019, p. 464). Building on this platform-centric perspective, this paper (Blackburn et al., 2023) relies on a meta-organizational lens, viewing circular platforms as "organisations of organisations" where authority is concentrated in the orchestrator, but activity remains with independent actors, which is key to consider.
+The coordinated mechanism of platforms utilizing "highly sophisticated and dynamic supply- and demand-side pricing to equilibrate peer supply and demand, and thus manage capacity constraints more effectively than pipeline businesses" (Wirtz et al., 2019, p. 462). This pricing-based coordination is further strengthened at the organizational level, this operational capability is reinforced through governance and design choices, particularly by creating the Meta-Organizational Core by establishing the technological architecture and automating processes to allow "frictionless transactions (Blackburn et al., 2023, p. 261). Within this governance and architectural setup, the term "institutionalizing trust" is interesting as gaining trust by shifting it from personal to platform based trust such as reputation systems like reviews and ratings (Korpela, 2017, p. 56). In parallel, it also spoke about coordination mechanisms - to stimulate interactions between separate groups, platforms provide "information and search methods," and "rules are applied to coordinate and govern these interactions" (Korpela, 2017, p. 21).
+Framing the platform as the entity that "specifies the 'rules of engagement,' including the information to be provided on listings, pricing schedules, search criteria and ratings" (Wirtz et al., 2019, p. 466), which gives an understanding of how a platform can be organised. From a structural and design perspective, architecturally, platforms are "modular systems made up of a reusable platform and its complements, interaction-mediating interfaces, and access rights" (Korpela, 2017, p. 19). However, such market-based assumptions are less directly applicable in community-based settings where exchange is not primarily organised through price signals.
+However, platform governance literature has its perceived risk due to the market nature of many platforms... and insecurity caused by interacting with peers who are effectively strangers (Wirtz et al., 2019, p. 468). Beyond governance-related risks, a further limitation emerges in relation to impact assessment, particularly regarding sustainability outcomes, and also its inability to measure Environmental Impact: The authors explicitly state they "could not reliably analyze or study, for instance, the negative environmental externalities caused by the platforms" (Blackburn et al., 2023, p. 276).
+2.2 Trust and social embeddedness in exchange
+Within the literature, trust is conceptualised in different ways, ranging from interpersonal trust embedded in social relations to more institutional or system-based forms of trust associated with formal rules and governance mechanisms.
+The orchestrator facilitates "information sharing to improve transparency and trust" (Blackburn et al., 2023, p. 263) and uses "automated feedback and auditing processes" to establish reliability and build internal trust (Blackburn et al., 2023, p. 263). At a more fundamental level, "without trust in actors, products, and technologies, sharing-based markets would struggle to exist" (Blackburn et al., 2025, p. 13). Accordingly, risk and uncertainty are mitigated through instilling and managing trust via institutional and legal governance mechanisms," including pre-selection of assets, rating systems, and insurance (Wirtz et al., 2019, p. 466).
+Within such governance arrangements, in these environments, trust between strangers is "created and sustained through decentralized and transparent communities, resulting in reasonable and self-governed use of those shared resources" (Korpela, 2017, p. 10). Extending this logic to incentive design, "transparency within gamified systems ensures that the processes and outcomes are clear to all participants, fostering trust and engagement (Gatti et al., 2019)" (Lim et al., 2025, p. 1520).
+2.3 Circular economy and reuse as socio-technical exchange systems
+This literature addresses how reuse and redistribution are organised and sustained through intermediaries, communities, and platforms. It situates the case within broader debates on circular exchange beyond purely economic or market-based models. Within this framing, the idea of the Circular economy is formulated as a more sustainable approach to the prevailing linear economic paradigm, which is the take-make-dispose model (Nurrohman et al., 2025, 473). In parallel, here, digital innovation and gamification are also becoming more common as a means of educating and engaging people in environmental sustainability practices to support the overall Circular economy movement (Lim et al., 2025, 1515).
+Much of this literature emphasises material flows, efficiency, and scaling, often conceptualising exchange in transactional or system-level terms. More specifically, this literature focuses on material flows, efficiency, and scaling, and often conceptualises exchange at the transactional or system level. Resource efficiency, waste reduction, and the creation of closed-loop systems aimed at creating value through regenerating it during production and consumption cycles are often prioritized (Nurrohman et al., 2025, 473). From this perspective, these models tend to believe that the introduction of the circular economy involves a shift in the framework of the strictly technical environmental models to the economic framework that is more inclusive (Nurrohman et al., 2025, 480).
+This stream helps situate platform-mediated reuse within broader sustainability debates and highlights structural constraints such as locality and coordination complexity. In this sense, this stream foregrounds place platform-mediated reuse in the context of broader sustainability discussions and the structural limitations of locality and the complexity of coordination. Within these constraints, digital technologies are recognised as a crucial step towards faster implementation of the circular economy and scaling of community-based innovation (Nurrohman et al., 2025, 489). Complementing this view, in addition, social innovation is used to convert social problems into economic opportunities by organising local knowledge and informal networks to lower co-ordination expenses (Nurrohman et al., 2025, 490).
+However, social relations and trust-based coordination are frequently treated instrumentally or implicitly, leaving unclear how circular exchange operates when embedded in community practices. In other words, social relations and coordination based on trust are often handled instrumentally or implicitly, and we do not understand how circular exchange can work in practice within community practices. As a consequence, the existing strategies are usually inefficient in systematically integrating the local values and traditional wisdom, even though they can offer the much-needed social legitimacy (Nurrohman et al., 2025, 481). Beyond this limitation, furthermore, the current literature is usually descriptive and does not provide the operational suggestions needed to apply such complicated incentive systems in specific local contexts (Nurrohman et al., 2025, 489).
+2.4 Incentive systems and motivation in digital platforms
+The literature on incentive systems and gamification studies the application of extrinsic rewards to simulate participation and engagement in a digital setting (Lim et al., 2025, 1510; Mabalay, 2025, 2). These systems refer to the incorporation of the game elements into non-gaming environments to motivate participation and behaviour change using structured rewards and incentives (Lim et al., 2025, 1510).
+The research outlines the opportunities and threats of incentives, such as the opportunity to motivate individuals both extrinsically and intrinsically to help achieve sustainable consumption (Lim et al., 2025, 1510). These systems are identified to have transparency that contributes to trust and engagement due to the absence of clouded processes and outcomes, as these processes and outcomes are made clear to participants (Lim et al., 2025, 1520). Moreover, the social interaction mechanisms like competition and cooperation make possible the distinctive collaborative action in the specifics of the sustainability issue (Mabalay, 2025, 5).
+Notably, this literature raises concerns about issues of motivation crowding and vulnerability of incentive outcomes, especially in environments where participation is socially or intrinsically driven. Relying on Self-determination theory (SDT), researchers warn that controlled(extrinsic) motivation cannot be as effective as autonomous (intrinsic) motivation in cases when individuals perform under pressure in order to get rewards (Lim et al., 2025, 1510). Also, it is mentioned that the intention-behaviour gap exists because digital incentives can create an intention without giving it a practical, real-life implementation (Lim et al., 2025, 1532). Lastly, there is a lack of longitudinal studies to prove whether these changes in behaviour can be maintained after the novelty of the platform wears off (Mabalay, 2025, 11).
+The issues are particularly acute when incentives are implemented in the context of trust-based community exchange, as platforms need to come to terms with the dilemma between formalised rewards and the informal social norms to be adopted to ensure future legitimacy (Nurrohman et al., 2025, 474).
+2.5 Synthesis and positioning
+Combined, these streams of literature can provide complementary yet incomplete insights into the formalisation of trust-based exchange using platforms and incentives. The digital platforms are positioned as a form of governance and coordination, structuring the interactions with the help of rules, pricing, architectural design, and meta-organizational coordination, and the literature on trust and social embeddedness provides the idea that the sharing-based markets cannot survive without the trust in the actors, products, and technologies (Blackburn et al., 2025, p. 13). Simultaneously, the reuse through platforms is placed in the context of wider sustainability discourses than economic or market-based models of sustainability, and incentive system literature identifies reuse as a field where gamification and rewards have been deployed to encourage participation and behaviour change in the digital space. Combined, these streams emphasise how platforms are pursuing more and more formalisation of coordination, trust, and motivation in the form of governance structures, technological architecture,e and incentive mechanisms.
+In the literature, a variety of tensions occur: Formal governance versus social embeddedness: Platforms stipulate rules of engagement and institutional means like rating systems, insurance or auditing to control risk and uncertainty (Wirtz et al., 2019, p. 466), whereas trust-based coordination in community exchange is produced and reproduced by decentralized and transparent communities and informal social relations (Korpela, 2017, p. 10). Scalability and efficiency versus locality and community practices: Circular economy literature has focused on material flows and efficiency and scaling with system-level models (Nurrohman et al., 2025, 473), but structural constraints (locality, the complexity of coordination, and reliance on local knowledge and informal networks) are also discussed (Nurrohman et al., 2025, 489; 490). Incentive-based motivation versus intrinsic and trust-based participation: Gaming and incentive systems provide a chance to encourage participation, transparency, and engagement (Lim et al., 2025, 1510; 1520), but question the issue of motivation crowding, implications of incentive results, and the conflict between formalised rewards and informal social norms in a trust-based community exchange (Lim et al., 2025, 1510; Mabalay, 2025, 11; Nurrohman et al., 2025, 474).
+Although it has been widely researched, the interaction between these dynamics in platforms involving early-stage, community-based interactions where trust is prior to formal government and incentive systems is not very well understood. Social relations and coordination by trust are often instrumentally or implicitly addressed, and it is not clear how circular exchange can work when it is incorporated in community practices. In turn, the current methods tend to be inefficient with regard to systematically incorporating the local values and traditional wisdom, although they may be able to provide greatly sought-after social legitimacy (Nurrohman et al., 2025, 481). 
+Also, the existing literature is typically descriptive and lacks the operational recommendations to use such complex incentive systems in particular local settings (Nurrohman et al., 2025, 489).
+This breach inspires the current thesis that attempts to examine these circumstances in qualitative terms using a deep case study and makes no assumptions about the efficacy or advantage of incentive-based remedies. The thesis will seek to bring empirical understanding to the intersection of platform governance, trust-based coordination, circular reuse practices, and incentive mechanisms in a given community situational context to ensure that the negotiation of trust, motivation, and coordination is achieved before full formalisation via platform governance and incentives.
+3. Methodology
+3.1 Case Introduction
+Digital platforms are no longer distant since they are being employed as a pivotal technology to introduce community-based sharing, organize participation, and share resources. Here, typically, when discussing exchanging, we refer to its organisation via informal relations that are based on trust and not via formal market mechanisms. It is against this backdrop that, lately, one of the most frequently used incentive mechanisms, through token-based/point-based incentive mechanisms, has been put forward as a measure to control and quantify such forms of exchange practices. There are, however, divided scholarly pursuits with this phenomenon. 
+Welloop is an online application that is aimed at helping people to engage, feel mentally healthy, and be involved in youth sports communities. Sports clubs and teams use the platform to experience organized digital interactions with the young athletes, which are not within the training sessions. The platform aims not at performance measurement or competition, but at participation, wellbeing, and reflection of sports activities (Welloop AB, 2026).
+Athletes use the Welloop app that allows them to engage in a brief digital experience related to the training plans. Such sessions consist of easy reflection questions posed prior to and following training, including perceived preparedness, well-being, perceived effort, and performance. The questions will help the young athletes to look back on the experience they have had in training and continue working in their sport without competing. The platform is part of the team activities of coaches or clubs, and the clubs would still have the responsibility of organising the actual training and sporting activities (Welloop AB, 2026).
+The involvement in such digital reflection sessions will produce tokens on the platform. The athletes are given tokens upon the completion of the sessions as well as feedback regarding their training and well-being. The token system is, thus, founded on engagement and participation as opposed to competitive performance or athletic performance. The items that the athletes earn are now redeemable to purchase sports-related products that are delivered by external partners (Welloop AB, 2026).
+The presence of this form of participation-based token system allows for investigating how digital engagement systems affect motivation, trust, and behavioural engagement in youth sports communities. Moreover, the platform context gives a context where the possibility of community-driven redistribution of sports gear with the help of a token exchange can be viewed as a potential expansion of the existing system.
+According to recent studies, the conceptualisation of digital platforms as governance through algorithms implies coordination, incentives, and control embedded in non-hierarchical structures of automated mechanisms instead of being exercised by traditional hierarchical authority (Hanisch et al., 2023; Kellogg et al., 2020). These digital infrastructures influence behaviour using data-oriented guidance, appraisal, and compensatory approaches in this literature. A large part of this work, though, is concentrated on labour-platform settings, in which algorithm systems are used to replace or augment managerial control and in which governance tensions are conceptualised in terms of productivity, compliance, and resistance.
+In line with this, the studies on behaviour-contingent rewards can show that extrinsic rewards can substantially influence the dynamics of participation. Although these rewards can make people more engaged, they can also displace intrinsic motivation or change the orientation of actors to normative commitment, outsourcing it to instrumental calculation (Stazyk, 2010; Wollbrant et al., 2022). However, such literature usually assesses behavioural results as opposed to considering the interpretation of such reward systems in digital-mediated governance structures.
+Simultaneously, the literature on the topic of trust in online communities also indicates that engagement in online community structures is not solely dependent on formal norms but also on interpersonal and systemic trust (Mohlmann, 2016). In the experience of introducing token-based governance mechanisms in the context of trust-mediated community management, however, little has been given to the experience of such mechanisms in the context of youth, where traditional coordination has been based on informal reciprocity.
+The interpretation of such mechanisms is of particular interest to understand when platforms think about expanding the token systems not only on the redemption of rewards but also on the redistribution of items to circles within themselves. Such extensions might only be legitimate and viable depending on the design, but also depending on the perceptions and negotiations of existing governance mechanisms by community actors.
+This study, therefore, asks:
+1. How do participation-based digital engagement systems using token incentives influence motivation, trust, and behavioural engagement within youth sports communities?
+2. What do these dynamics imply for the feasibility of community-based circular exchange of sports equipment?
+3.2 Aim / Purpose
+This paper will investigate the extent of the experience of participation-based digital systems of digital engagement through the use of token-based incentives in the context of youth sports communities and the implications of these experiences regarding the possibility of community-based redistribution of sports equipment in circular ways. This paper discusses the example of such a digital interaction system as Welloop.
+3.3 Research Design
+This paper is going to discuss a qualitative case study, as it entails a perceptive, interpretative, and feasibility study. And welloop as a case study design. The paper presents perceptions, meanings, trust, motivation, and behavioural engagement, which is why it is appropriate for a qualitative case design.
+3.4 Case and Empirical Setting
+The research will be carried out in a start-up, Welloop, a sports well-being company among under-17-year-old kids situated in Uppsala. It provides tokens as a motivator to fill in the questionnaire that will be administered prior to and following the practise/training session. The earned token can be redeemed for new goods of third-party interest, such as track suits, backpacks, and socks, at present. 
+The study dwells on the potential expansion of these rewards or redemption through the exchange of used sports gear as children grow so rapidly out of their sports gear (jerseys, shoes) that they will be swapped on the digital platform community. We shall be looking at the youth teams who are below the age of 17 in different sports that are played in Uppsala. 
+3.5 Sampling Strategy
+With the help of the stratified purposeful approach described by Palinkas et al. (2015), the present paper will sample an information-rich case of stakeholders in various groups to offer deeper insights into digital involvement in youth sports. 
+Thus, we will be purposely sampling the semi-structured interviews of 25-30 kids under the age of 17, 3-4 coaches of the respective clubs/teams, 3-4 parents of kids, and the administrators of Welloop. The participants are chosen because they are the ones who are directly engaged in the youth sports participation and digital engagement platform.
+3.6 Data Collection
+The interviews will be semi-structured, and will last between 30-45 minutes, and will also be recorded on audio, transcribed, and would also be recording the answers down. The audio recording will be transcribed (Adam, 2015). All the interviews will be anonymous, and parent consent will be obtained from children under 12. The questions will include sports involvement and encouragement, their attitudes to the digital engagement systems use, token rewards, confidence and societal standards, and their attitude to the potential sports gear.
+3.6 Interview Guide 
+To explore how participation-based digital engagement systems and token incentives are experienced within youth sports communities, semi-structured interviews will be conducted with youth athletes, coaches, and parents (Adam, 2015). The interview guide is designed to capture perspectives on sports participation, digital engagement systems, incentives, trust within sports communities, and the potential for exchanging sports equipment through a token-mediated system. The semi-structured format allows participants to elaborate on their experiences while ensuring that comparable themes are discussed across interviews.
+For youth athletes, the interview begins with questions about their involvement in sports and their general experiences with training. Participants are first asked to describe their sports activities and routines through questions such as
+ "Can you tell me about the sports you play and how often you train?" and 
+"What do you enjoy most about playing sports?" These questions are intended to establish the participant's relationship with sport and their motivation for participation.
+The interview then explores experiences with digital engagement tools related to sports participation. Participants are asked whether they use digital applications connected to sports activities, including questions such as 
+"Do you use any apps or digital tools related to your sports training?" Follow-up questions asked participants to reflect on their experiences with such tools and what aspects they find useful or challenging.
+The next section introduced the idea of participation-based token incentives in digital platforms. Youth athletes will be asked how they would feel about earning tokens through digital engagement activities, for example, through the question 
+"In a digital platform, if you could earn tokens by answering session questions, how would you feel about earning tokens this way?" Follow-up questions will explore whether such incentives might influence participation, including 
+"Does it make you want to participate more?"
+Subsequent questions focused on the possibility of exchanging sports equipment within the team or community. Participants will be asked about equipment sharing practices and preferences, for instance 
+"What types of sports equipment would you feel comfortable giving to teammates?" and "What equipment would you like to receive from others?"
+ The interview also explores practical preferences for how such exchanges might occur, through questions such as "Would you prefer exchanging equipment at practice or matchday, or through an app?"
+The interviews also address trust and relationships within sports teams. Participants will be asked about existing practices of helping teammates, including questions such as 
+"How do you usually help teammates if someone needs equipment?" and 
+"Do you think teammates usually trust each other when sharing equipment?" These questions were intended to understand how trust operates within youth sports communities.
+Finally, youth athletes will be asked to reflect on the broader idea of token-mediated equipment exchange within their sports community. For example, participants were asked,
+ "If there were a way to use tokens to exchange sports equipment within the team or community, what would you think about that?"
+ Follow-up questions explore whether such a system might support athletes who face financial barriers to participation.
+For coaches, the interview focused on their observations of youth engagement and participation in sports. Coaches will be asked about the factors influencing continued participation, including questions such as "What are the main reasons young athletes stop participating in sports?" and 
+"What helps keep kids motivated to continue training?" The interview also explores coaches' perspectives on digital engagement systems, through questions such as 
+"What do you think about digital tools that track participation or well-being?" and whether such tools support engagement among young athletes.
+Additional questions address the role of incentives and rewards in youth sports participation. Coaches will be asked, 
+"What role do rewards or incentives play in motivating young athletes?" and whether such mechanisms might also have unintended effects. 
+The interview also examines practical aspects of sports equipment usage, including "Which equipment do kids outgrow or replace most often?" and whether equipment costs affect participation.
+Finally, coaches will be asked to reflect on the feasibility of equipment exchange within youth sports communities through questions such as "What do you think about the idea of a digital platform where athletes exchange equipment within the community?" Follow-up questions explore potential challenges or concerns associated with such a system.
+For parents, the interviews focus on family perspectives on youth sports participation and equipment use. Parents will be asked about their child's engagement with sports, beginning with questions such as 
+"What motivated your child to start playing sports?" 
+The interview then explores parents' perspectives on digital engagement systems through questions such as "How do you feel about apps that track wellbeing or participation in sports?"
+Further questions examine parents' views on incentive systems, including "Do rewards or incentives help motivate children in sports?" Follow-up questions asked whether parents have any concerns about such mechanisms. 
+The interview also addresses the financial dimension of youth sports participation through questions such as "Do sports equipment costs affect families?" and whether equipment is sometimes shared between families or teammates.
+Finally, parents will be asked to reflect on the possibility of equipment exchange within the sports community. 
+For example, participants were asked, "Where would you feel most comfortable exchanging equipment - at matchday, during practice, or through a digital platform?" and whether such exchanges would feel safe and fair within the community.
+Across all participant groups, the interview guide is designed to encourage open-ended responses and follow-up discussions. This structure allows participants to describe their experiences with sports participation, digital engagement systems, incentives, and trust within their communities, while also reflecting on the potential for token-mediated exchange of sports equipment.
+3.7 Data Analysis Plan
+The data obtained, that is, the interviews, will be transformed into transcribed texts and directly studied with the help of Thematic Analysis, one of the most efficient techniques to discover, analyze, and report a certain pattern in the qualitative data (Bell et al., 2019).
+The information obtained in the semi- structured interview will be in audio recordings, which will later be transcribed into documents and edited. We will also further examine the data gathered on the assistance of tools like MS Excel to conduct an analysis and extract the patterns of interviewees, and visualise the results with the help of Power BI. These patterns/code will subsequently be formulated on the themes which keep coming up, i.e., motivation, trust, behavioural engagement, fairness, and perspective towards redistribution.
+Lastly, our literature will be connected with the analysis we have obtained.
+3.8 Limitations
+The study concentrates on circular redistribution, which has not been applied yet in that digital platform and thus the study can only comment on implications to feasibility. Also, the setting is narrowed down to youth sports communities and selected groups of interviews; further, the results would be context-sensitive and not statistically generalisable.
+3.9 Ethical Considerations
+To make the work with minors as ethical as possible, the study follows the principles based on voluntary participation and protection in the strictest way possible. Each of the youth participants makes his or her own assent as well as formal parental consent, underlining that the latter is able to withdraw at any time without any repercussions. All the data are kept anonymous to ensure that the identities of the participants remain undisclosed. Recordings and transcripts are handled in confidential processes; that is, encrypted storage and limited access are provided to preserve full confidentiality in the research process.
+
+
+
+
+
+4. Results (approx 15-20 pages) 
+4.1 TBD
+5. Discussion (approx 5-7 pages) 
+5.1 Societal and Ethical Implications 
+5.2 Evaluation of Methodology 
+5.3 Limitations 
+5.4 Delimitations 
+6. Conclusion (approx 3-5 pages) 
+6.1 Thesis Contribution 
+6.2 Suggestions for Future Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References:
+Blackburn, O., Ritala, P., & Keränen, J. (2023). Digital platforms for the circular economy: Exploring meta-organizational orchestration mechanisms. Organization & Environment, 36(2), 253-281. https://doi.org/10.1177/10860266221130717
+Blackburn, O., Ritala, P., Keränen, J., & Bocken, N. (2025). Circular economy platforms: A systematic review. Business Strategy and the Environment, 1-32. https://doi.org/10.1002/bse.70307
+Korpela, A. (2017). Governing collaborative interactions: A multiple-case study on the platform governance of peer-to-peer marketplaces [Master's thesis, Aalto University School of Business]. Aalto University Digital Repository.
+Wirtz, J., So, K. K. F., Mody, M. A., Liu, S. Q., & Chun, H. H. (2019). Platforms in the peer-to-peer sharing economy. Journal of Service Management, 30(4), 452-483. https://doi.org/10.1108/JOSM-11-2018-0369
+Lim et al. (2025) Lim, W. M., Das, M., Sharma, W., Verma, A., & Kumra, R. (2025). Gamification for sustainable consumption: A state-of-the-art overview and future agenda. Business Strategy and the Environment, 34(1), 1510-1549. https://doi.org/10.1002/bse.4021.
+Mabalay (2025) Mabalay, A. A. (2025). Gamification for sustainability: A systematic review of applications, trends, and opportunities. Computers in Human Behavior, 165, 108529. https://doi.org/10.1016/j.chb.2024.108529.
+Nurrohman et al. (2025) Nurrohman, R., Bharata, W., Hikmah, M., Nurqamarani, A. S., Utami, R. A., & Prasetyo, A. (2025). Inclusivity in the circular economy: A systematic review of social innovation in developing regions. Jurnal Manajemen dan Bisnis, 4(2), 472-498.
+Hanisch, M., Goldsby, C. M., Fabian, N. E., & Oehmichen, J. (2023). Digital governance: A conceptual framework and research agenda. Journal of Business Research, 162, 113777. https://doi.org/10.1016/j.jbusres.2023.113777
+Kellogg, K. C., Valentine, M. A., & Christin, A. (2020). Algorithms at work: The new contested terrain of control. Academy of Management Annals, 14(1), 366-410. https://doi.org/10.5465/annals.2018.0174
+Stazyk, E. C. (2013). Crowding out public service motivation? Comparing theoretical expectations with empirical findings on the influence of performance-related pay. Review of Public Personnel Administration, 33(3), 252-274. doi.org
+Mihale-Wilson, C., & Carl, K. V. (2024). Designing incentive systems for participation in digital ecosystems-An integrated framework. Electronic Markets, 34(1), Article 16. https://doi.org/10.1007/s12525-024-00703-5
+Casadesus-Masanell, R., & Spulber, D. F. (2005). Trust and incentives in agency. Southern California Interdisciplinary Law Journal, 15(1), 45-104.
+Jarrahi, M. H., Newlands, G., Lee, M. K., Wolf, C. T., Kinder, E., & Sutherland, W. (2021). Algorithmic management in a work context. Big Data & Society, 8(2). doi.org
+Möhlmann, M. (2021). Algorithm sensemaking: How platform workers make sense of algorithmic management. HICCS 2021 Proceedings.
+Möhlmann, M., & Teubner, T. (2016). Digital trust and peer-to-peer collaborative consumption platforms: A mediation analysis. SSRN. doi.org
+Stark, D., & Pais, I. (2020). Algorithmic management in the platform economy. Sociologica, 14(3), 47-72. doi.org
+Williamson, B. (2016). Digital education governance: Data visualization, predictive analytics, and 'real-time' policy instruments. Journal of Education Policy, 31(2), 123
+Wollbrant, C. E., Knutsson, M., & Martinsson, P. (2022). Extrinsic rewards and crowding-out of prosocial behaviour. Nature Human Behaviour, 6(5), 674-681. doi.org-141. doi.org
+Palinkas, L. A., Horwitz, S. M., Green, C. A., Wisdom, J. P., Duan, N., & Hoagwood, K. (2015). Purposeful Sampling for Qualitative Data Collection and Analysis in Mixed Method Implementation Research. Administration and Policy in Mental Health and Mental Health Services Research, 42(5), 533-544. DOI: 10.1007/s10488-013-0528-y.
+Bell, E., Bryman, A., & Harley, B. (2019). Business research methods (Fifth edition). 
+Adams, W. C. (2015). Conducting Semi-Structured Interviews. In K. E. Newcomer, H. P. 
+Hatry, & J. S. Wholey (Eds.), Handbook of Practical Program Evaluation (4th ed., pp. 
+492-505). John Wiley & Sons, Inc. DOI: 10.1002/9781119175438.ch19
+
+
+
+
+
+
+
+
+
