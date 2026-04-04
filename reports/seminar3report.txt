@@ -1,145 +1,0 @@
-﻿1. Methodological Approach
-
-The chapter introduces and defends the methodology that has been used in this paper, which examines the meanings of token-based systems of governance as perceived by the actors in the youth sports community in a trust-based digital platform, and how such perceptions relate to community willingness to participate in a circular exchange of used sports equipment.
-
-In this method report, we will discuss the following areas: firstly, restating the problem briefly, what is being investigated, and why. Addressing the research question, philosophy, design, data collection, and analysis.
-
-And lastly, where we have gone so far in our study empirically: data collection methods, analysis underway.
-
-The problem and the purpose - Welloop is a sports wellbeing platform among the youth that is currently using participation incentives in the form of tokens. Welloop asks participation and well-being-related questions to kids prior to and following the training to understand and track their mental health, and coaches have a different dashboard in which they can evaluate their team based on the responses of the kids and help them accordingly (Welloop AB, 2026).
-
-Currently, the platform is planning to expand these tokens to enable the circular exchange of used sports equipment within the community (i.e., giving and receiving used sports equipment, in exchange for tokens).
-
-This brings in questions of how the community actors interpret and negotiate the existing token system and whether conditions to such expansion exist or not.
-
-Thus, the research questions:
-
-RQ1 - How do participation-based digital engagement systems using token incentives influence motivation, trust, and behavioural engagement within youth sports communities?
-
-RQ2 - What do these dynamics imply for community actors' readiness to engage in token-mediated circular exchange of used sports equipment?
-
-Furthermore, this chapter accounts for the philosophical foundations, research design, data collection process, analytical approach, and research quality considerations. Empirically, semi-structured interviews have been conducted with youth kids and coaches in Uppsala. We will collect a few more data points in the coming days. All interviews have been transcribed audio to text, and preliminary coding has begun. We are trying to pursue parent interviews to be incorporated into the final analysis.
-
-
-
-
-2. Research Philosophy
-2.1 Epistemological Position - Interpretivism 
-This research aims to understand how youth sport community members make sense of and interpret participation-based token systems as opposed to quantifying behavioural outcomes. It uses an interpretivist epistemology, thus because the research is concerned in the meanings, experiences, and interpretations of digital engagement systems by the participants (Bell et al., 2019).
-The concepts such as motivation, trust, and behavioural engagement are not perceived as variables that are definite and measurable, but as phenomena that are expressed, negotiated, and interpreted differently by the participants (Bell et al., 2019).
-Now, after defining what and how interpretivism connects with research, we used semi-structured interviews to access these interpretations, allowing participants to describe how the kids and coaches experience the token and rewards when included in digital platforms made for tracking mental well-being, studying how the actors understand and give answers for participation, and involving themselves in that community. 
-By conducting all these sets of questions in the interview, we are trying to understand through meanings and interpretations rather than measuring them. 
-2.2 Ontological Position - Constructionism 
-The study also adopts a constructionist ontology, which presupposes that social reality is not fixed but created in the course of interaction, experience, and context (Bell et al., 2019).
-Coming again to the Welloop setting, youth athletes, coaches, and additionally their parents may construct different meanings around the same token-based system. For example, some kids interpret tokens as rewards, whereas coaches may see them as encouragement or recognition, and there is a possibility that they could be seen as pressure or sometimes even irrelevant.
-And trust is also not treated as a linear condition, but as something that may differ between teams, within the team, or when stranger actors come into play, or maybe the platform itself.
-2.3 Why These Positions Suit This Study
-This paper discusses a digital engagement system in the form of tokens implemented within a youth sports community, in which the interaction between the platform and the actors, informal norms, and natural motivation provided by the tokens are the determinants of participation. The token-based incentive introduction is a formalised governance mechanism, which can be interpreted in different ways by the participants. To assess the impact of such systems on motivation, trust and engagement, it is necessary to study how such mechanisms are perceived and reacted to by participants, not to assume that they will evenly affect behaviour. Such interpretations are influenced by the experience of individual actors, social context and team dynamics.  The research, thus, is based on the perceived preparedness and conditions of the participants to be engaged, as opposed to the actual outcomes of the system.
-Lastly, the philosophical ideas underpin our research methodology, which is more focused on meaning, interpretation, and context, which are core to our research on the nature of token-based participation systems in youth sports communities.
-3. Research Design
-3.1 Qualitative Approach 
-This paper will take the qualitative case study design to investigate a modern occurrence in a real-life situation. Welloop is considered an informative example of a token-based digital governance in the youth sport world.
-An analysis of Welloop in its real world setting is a representation of the first correction by Flyvbjerg. He claims that when analyzing the human affairs, including the digital governance and youth sports, concrete case knowledge is more useful than the quest of universal and predictive theories.(Flyvbjerg, 2006). 
-Also, a quantitative method would presuppose that motivation, trust, and engagement can be operationalised and measured without reference to specific context. In the current research, however, these phenomena are relative and influenced by social interaction and thus qualitative inquiry would be suitable.
-Also, a quantitative method would presuppose that motivation, trust, and engagement can be operationalised and measured without reference to specific context. In the current research, however, these phenomena are relative and influenced by social interaction and thus qualitative inquiry would be suitable.
-4. Data Collection
-4.1 Semi-Structured Interviews 
-In this research, we employed semi - structured interviews to elicit empirical data from participants (young athletes, coaches, and perhaps parents) in youth sports communities.
-Since it involves a face-to-face questionnaire, it is best suited to this approach, and furthermore, this research aims to know how the participants perceive and experience token-based engagement systems, and not the behaviour. Therefore, the interviews enabled entry into the meanings of participants and sense-making processes. The description of our data collection is mentioned in Table 1 below.
-
-AspectDescriptionMethodSemi - structured interviewsDuration30 - 45 minutesRecordingAudio recordedOutputVerbatim transcriptsParticipantsAthletes, Coaches, and possibly parentsTable 1: Description of Data Collection
-4.2 Sampling Strategy
-The current paper selected an information-rich case of the stakeholders of different groups with the assistance of a stratified, purposeful approach outlined by Palinkas et al. (2015) that provided a more profound understanding of digital engagement in youth sports. 
-Above all, the participants were chosen according to their direct participation in youth sports, their exposure to digital engagement systems, and their relevance to our Research Questions. Our major groups were youth athletes who form the basis of our users, coaches were used as observers and facilitators, and then there were the parents of young athletes, who fall under the category of the contextual perspective.
-4.3 Participant Overview 
-The sample was selected from an organised youth sports team in Uppsala, Sweden. This assisted us in getting a steady community context in addition to permitting variation between sports and groups. The participants gathered below are likely to increase in the future period of data collection.
-4.4 Interview Guide Design
-The interview guide was designed with four major themes, namely, sports participation, digital engagement systems, token-based incentives, and equipment exchange. These themes bring out the views and opinions of community actors that form part of our Research Questions.
-The more significant concept of the circular exchange (i.e., the exchange of used sports equipment with tokens that already exist) was presented to those community actors as a hypothetical extension, rather than as a existing feature. This setup will enable us to explore the ways in which the current participation-based dynamics can be extended to the concept of exchange that signifies perceived feasibility but does not reflect actual behaviour.
-Also, the interview questions about token incentives were clearly framed in terms of motivation or reward, which might have influenced the participants to the positive interpretation, as well as yielded some brief positive responses, especially in the case of very young participants. However, follow-up questions and later sections of the interview extracted more subtle answers, especially when it came to trust, fairness and conditions of exchange.
-5. Data Analysis
-This chapter presents the analytical process undertaken with qualitative data collected through semi-structured group interviews conducted across four youth sports teams in Uppsala, Sweden. The section is structured to achieve three objectives: (1) to demonstrate that a rigorous and systematic analytical process has been initiated despite data collection being ongoing; (2) to present the preliminary thematic findings derived from the interviews conducted to date; and (3) to connect these emerging findings to the theoretical and academic foundations established in the literature review. A forward-looking section outlines how analysis will be deepened and completed once the remaining Uppsala Sirius coach interview (C1) and any additional interviews are finalised.
-5.1  Research Design Context and Data Collection Status
-The semi-structured group interviews with 23 youth athletes in four teams and three coaches (out of four planned) so far based in Uppsala, Sweden are the empirical data underpinning this thesis. The sampling was purposive: two football teams and two basketball teams were selected to allow for within-sport and cross-sport comparison. They are all male and they are all aged between 13 and 15 which is the target age group of the Welloop AB main users. Table 2 will give a detailed description of the present sample.
-
-SessionTeamSportAthletesCoachBirth Year / Age (2026)S1Uppsala Sirius U15Football8Pending (C1)2010 / Age 15S2Uppsala Basketball LionsBasketball3C2 ✓2012 / Age 13S3Uppsala BasketballBasketball5C3 ✓2010 / Age 15S4IF VPFootball7C4 ✓2011-2012 / Age 13-14TOTAL4 teams  |  2 football  |  2 basketball233 of 4Ages 13-15, all male, Uppsala                            Table 2: Sample Overview - Current Data Collection Status
-
-Note: C1 (Uppsala Sirius U15 coach) interview is scheduled and pending. 
-Following that, 7 kids and 3 coaches from the Uppsala IF U-15 team's interview have been conducted, which are yet to be transcribed and added into the spreadsheet for further analysis.
-
-A methodological consideration that can be mentioned is that all the interviews were held in a group setting and not individually. As much as this created a favourable interpersonal interaction and naturalistic conversation, it serves as the source of the conformity bias, wherein the participants base their response on the initial reply of the respondent and repeat it without thinking. This is especially evident in the very few responses facilitated by Sessions S3 and S4, where some of the responses to trust and free-rider questions gave repeated answers of the same, or I would not care. This restriction is clearly marked in the dataset through a conformity risk note column and is mentioned in the methodology chapter.
-5.2  Analytical Approach: Thematic Analysis with Inductive Coding
-The analysis is based on the six-phase thematic analysis model as reported by Braun and Clarke (2006), performed inductively, that is, codes were not identified within a pre-defined theoretical framework but directly developed out of the data. It was decided to work in this way because the research questions are exploratory questions: they involve how the participants see the token-based governance and whether communities are prepared to operate with the idea of a circular exchange, both of which do not have known measurement scales that would support the deductive coding.
-In practice, the transcripts were initially transcribed out of their original format (Word document) into a structured long-format CSV of 352 rows and 20 columns, with a row containing one participant per question. It allows the systematic filtering, cross-group comparison, and direct import to analytical tools, such as Python (Pandas), and Power BI. All the rows contain metadata fields (participant_id, session_id, team_name, sport, age_2026, participant-type) that enable every coded statement to be traced to its origin without any confusion.
-
-Table 3: Analytical Stages - Process, Tools, and Outputs
-
-
-
-
-
-
-
-
-
-
-
-
-StageWhat Was DoneOutput1. Data StructuringTranscript responses were organised into a structured CSV with unique participant IDs CSV2. FamiliarisationFull re-reading of all transcripts across all four sessions. Notes taken on recurring words, phrases, and contrasts between football and basketball respondents.Preliminary codes will be identified3. Open / Inductive CodingEach response was coded freely without imposing prior categories.Initial codebook (see Table 4); codes such as: token-as-motivation, hygiene-concern, trust-in-team, scam-risk, app-fatigue4. Thematic ClusteringInitial codes were grouped into candidate themes by conceptual similarity. Five possible provisional themes (see Table 5); ongoing - will be refined once data collection is complete5. Cross-group Comparison (Planned)Systematic comparison of theme frequency and intensity across sport type, age group, and athlete vs. coach perspective.To be completed after all interviews are collected; will use Pandas pivot tables and Power BI visual cross-tabs
-
-It is important to be explicit about what has and has not been completed at the time of Seminar 3. Stages 1 through 4 (data structuring, familiarisation, open coding, and initial thematic clustering) have been carried out on the currently available data. Stage 5 (systematic cross-group comparison) is planned for execution once the remaining C1 interview is complete and data collection is formally closed. The preliminary findings presented in Section 5.4 are therefore treated as candidate themes - robust enough to be presented and interrogated, but subject to refinement.
-5.3  Interview Guide and Research Question Alignment
-Before the presentation of findings, the interrelationship between the interview questions and the two research questions that direct this thesis should be presented. This mapping assures the directional nature of the presented analytical work - every code and theme could be traced down to what it is aimed at explaining.
-RQ1: How do young athletes and coaches in youth sports communities interpret and engage with token-based digital governance?
-RQ2: What is the community readiness for participating in a circular exchange of sports equipment facilitated by a token-based platform?
-
-
-
-Refer to the Interview Guide in Section 3.7 for Interview Questions:
-Q#Question FocusDirected AtMaps to RQQ1Token earning through well-being questions - motivation or reward?AthletesRQ1 - Token governance interpretationQ2Comfort using pre-owned gear from peersAthletesRQ2 - Community readiness for circular exchangeQ3/4Gear willing to receive/give awayAthletesRQ2 - Exchange willingness and item scopeQ5Preferred exchange modality (app vs. in-person)AthletesRQ2 - Platform behaviourQ6Token-mediated vs. direct gifting - does framing matter?AthletesRQ1 - Token as governance mechanismQ7Trust radius - team only or cross-team?AthletesRQ2 - Trust as a condition for circularityQ8Free-rider scenario - fairness normsAthletesRQ1 - Community governance & reciprocityQ9Prior second-hand gear experienceAthletesRQ2 - Baseline circular behaviourQ10/11Knowledge of equipment-related dropout: perceived remedyAthletesRQ2 - Equity and inclusion motiveQ12Overall feasibility - what works, what could go wrongAthletesBoth RQsQC1Coach's view on dropout causes: financial barriersCoachesRQ2 - Institutional framing of access barriersQC5/6Coach's view on digital tools and reward incentivesCoachesRQ1 - Adult interpretation of token governanceQC7Coach's view on intra- and inter-team trustCoachesRQ2 - Trust as enabling conditionQC9/10Coach's view on gear exchange platform: practical barriersCoachesBoth RQs
-Table 4: Interview Question Map - From Data to Research Questions
-
-
-5.4  Preliminary Findings: Inductive Codes and Emerging Themes
-5.4.1  Theme Narratives with Selected Evidence
-Theme 1- Token Governance as Motivational Infrastructure. In each of the four sessions, athletes evaluated the token-earning mechanism with a very positive perception. The most prevalent definition was motivational - tokens render participation worthy. Nevertheless, a more subtle sub-pattern was observed, especially during Sessions S1 and S4: tokens were not merely personal incentives but were presented by some of the respondents as an equity measure in favor of peers unable to afford gear. This is a significant difference to RQ1 - athletes do not respond to a gamification stimulus as such, they are also explaining a social rationale behind the governance structure.
-"It's kind of exciting, you have something you can save up for. And I think it's a great way to keep players motivated and to answer the questions."  - S1_A01 | Uppsala Sirius  | Age 15
-"Good especially for people without much money; they can just answer the question and get items."  - S4_A07 | IF VP | Age 13-14
-"Very great motivation, because maybe you don't always have money to get the things."  - C2-session athlete | Uppsala Basketball Lions | Age 13
-
-Theme 2 - Conditional Readiness for Circular Exchange. Acceptance of the pre-owned exchange concept was high but not unconditional. A consistent asymmetry emerged: willingness to give was near-universal, while willingness to receive carried conditions primarily around quality and hygiene. Shin guards were singled out in Session S1 as an item respondents would not receive due to hygiene concerns. This asymmetry is a meaningful empirical finding: circular system designers cannot assume symmetric participation and must design for this receiving-side friction.
-"I would be comfortable. I usually share my things - it's good not to throw them away just because they are used."  - S4_A01 | IF VP | Age 13-14
-"Shin guards are not so sanitary or hygienic to reuse since you sweat into them, but shoes and other equipment should work nicely."  - S1_A07 |  Uppsala Sirius | Age 15
-
-Theme 3 - Trust Architecture: Intra-team vs. Platform-mediated. Patterns of trust were not consistent. The modal pattern between football sessions (S1, S4) consisted of team-bound trust - comfort with exchange increases with personal familiarity. Yet, the basketball group (S2) exhibited a qualitatively different trend: some of the respondents pegged their trust in the platform, as opposed to the individual, indicating that the design of an app can replace interpersonal familiarity. It has theoretical importance and relates to the requirements of commons governance proposed by Ostrom (1990): the fact that the platform architecture can replace social capital is directly linked to RQ1.
-"I trust the app, so yes [I would exchange with strangers]."  - S2_A02 | Uppsala Basketball Lions | Age 13
-"With the person I know, because if you don't know them, you may think they have disgusting habits."  - S1_A04 |  Uppsala Sirius | Age 15
-"Just within the team, I think it's very easy for them to share with each other. If you're going to share with another person you don't know, I think it's more difficult."  - C4 | IF VP Coach
-
-Theme 4 - Perceived System Risks and Feasibility Conditions. The barrier that was most mentioned in all sessions was Scam risk. Another unique and analytically useful voice was that of Coach C3 (Uppsala Basketball P10), who mentioned a concern that was not mentioned by any of the athletes: app-market competition. The already existing Swedish second-hand sites Blocket and Tradera already serve the same logistical purpose that this site will, and financially needy families probably already use them. This presents a differentiation challenge to the platform that transcends product design - it is a positioning challenge that the thesis will need to address.
-"Too many apps already. Blocket and Tradera are very well established. Families that are struggling, I think, are looking there when they need to buy used equipment."  - C3 | Uppsala Basketball P10 Coach
-"Would work but needs a lot of users; if not, it could be hard."  - S2_A01 | Uppsala Basketball Lions | Age 13
-
-Theme 5 - Equity and Inclusion as Legitimating Motive. In both athlete and coach respondents, the most socially resonant framing of the whole idea was that it could help in preventing equipment-related dropout. Even the respondents who had no personal experience of this problem admitted that it exists and supported the idea based on these reasons. This theme will stand out as the best linking point between RQ2 and the wider literature on sports equity and socioeconomic access barriers, and it will be the pillar behind the final point of the thesis.
-"If it gets international, kids in other countries who can't afford it would benefit - complete freedom. It makes me feel better to know someone else can play football."  - S1_A07 | Uppsala Sirius  | Age 15
-"It's very expensive [in hockey]. I think in hockey you need this app because you outgrow the equipment there also."  - C4 | IF VP Coach
-
-5.5 Analytical Limitations at This Stage
-Three limitations have been acknowledged in the current state of analysis.
-To begin with, data is not collected fully. The Uppsala Sirius coach interview (C1) is pending. The  Uppsala Sirius coach interview (C1) is pending. Until it is complete, the football-coach perspective is represented by a single voice (C4, IF VP), whereas basketball coaches are represented by two voices (C2, C3). The triangulation of coaches in different types of sports is thus skewed at this point.
-Second, there are effects of group interview conformity. The fact that "the same" and "I wouldn't care" answers are more frequent in Sessions S3 and S4, especially when it comes to trust and free-rider questions, indicates that one cannot assume the independence of responses. In cases where individual responses in S1 and S2 are more varied, they are considered more analytically valid. This restriction is monitored in the dataset and will be addressed openly in the methodology chapter.
-Third, themes are tentative. The above five themes were obtained based on 23 athletes and 3 coaches to date. The level of saturation is not evaluated. The C1 interview and other data may yield new themes or important changes to the existing ones. A saturation memo will be incorporated in the final thesis explaining the time of closing the code.
-
-
-
-Reference List:
-Flyvbjerg, Bent (2006). "Five Misunderstandings About Case Study Research." Qualitative Inquiry, vol. 12, no. 2, April, pp. 219-245
-Palinkas, L. A., Horwitz, S. M., Green, C. A., Wisdom, J. P., Duan, N., & Hoagwood, K. (2015). Purposeful Sampling for Qualitative Data Collection and Analysis in Mixed Method Implementation Research. Administration and Policy in Mental Health and Mental Health Services Research, 42(5), 533-544. DOI: 10.1007/s10488-013-0528-y.
-Bell, E., Bryman, A., & Harley, B. (2019). Business research methods (Fifth edition). 
-
-
-
-
-
-
-
